@@ -270,6 +270,10 @@ body::after {
         width: 48vw;
     }
 
+    header {
+        padding: 60px;
+    }
+
     main {
         display: flex;
         flex-direction: row-reverse;
